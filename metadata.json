@@ -1,0 +1,6 @@
+{
+  "name": "MediPredict AI",
+  "description": "Intelligent healthcare symptom analysis platform powered by explainable machine learning classification, independent emergency screening, and structured health guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
